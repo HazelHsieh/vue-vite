@@ -22,8 +22,8 @@ git commit -m 'deploy'
 
 # if you are deploying to https://HazelHsieh.github.io
 # git push -f git@github.com:HazelHsieh/HazelHsieh.github.io.git main
-
 # if you are deploying to https://HazelHsieh.github.io/vite-deploy-sample
-git push -f https://github.com/HazelHsieh/vite-deploy-sample.git main:gh-pages
+git push -f https://github.com/HazelHsieh/vue-vite.git main:gh-pages
+
 
 cd -
